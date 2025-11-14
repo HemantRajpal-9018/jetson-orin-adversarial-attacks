@@ -92,10 +92,10 @@ This research highlights the importance of adversarial robustness in edge AI dep
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{rajpal2024jetsonadversarial,
+@misc{rajpal2025jetsonadversarial,
   author = {Hemant Rajpal},
   title = {Adversarial Attack Robustness Testing on NVIDIA Jetson Orin Nano},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/HemantRajpal-9018/jetson-orin-adversarial-attacks}
 }
