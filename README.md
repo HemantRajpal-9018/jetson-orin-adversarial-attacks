@@ -6,6 +6,23 @@ Adversarial attack robustness testing on NVIDIA Jetson Orin Nano using PyTorch a
 
 This project demonstrates adversarial attack vulnerability assessment on edge AI devices, specifically testing the NVIDIA Jetson Orin Nano's robustness against FGSM (Fast Gradient Sign Method) attacks. The research compares model predictions on AI-generated vs. real images and evaluates how adversarial perturbations affect inference on edge hardware.
 
+## 📸 Experimental Results
+
+### Terminal Output Screenshots
+
+![Terminal Output 1](1.png)
+![Terminal Output 2](2.png)
+![Terminal Output 3](3.png)
+
+### Test Images
+
+#### AI-Generated Dog Image
+![AI-Generated Dog](dog_ai.webp)
+
+#### Real Dog Image
+![Real Dog](dog.avif)
+
+
 ## 🔬 Key Features
 
 - **FGSM Targeted Adversarial Attacks**: Implementation of Fast Gradient Sign Method with targeted class manipulation
